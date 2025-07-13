@@ -33,18 +33,6 @@ The goal of this project is to:
 
 ---
 
-## 📂 Project Structure
-
-car-price-predictor/
-│
-├── quikr_car.csv # Raw dataset
-├── model_train.py # Script to clean data and train the model
-├── linearregressionmodel.pkl # Trained model file
-├── app.py # Streamlit app for prediction
-├── requirements.txt # Required Python packages
-└── README.md # Project overview (you’re reading it!)
-
-
 ---
 
 ## 🚀 How to Run Locally
@@ -77,8 +65,8 @@ Metric: R² Score
 Achieved Score: Around 0.18 on test data
 
 📬 Contact
-📧 yashshingne33@gmail.com
-🔗 LinkedIn
+📧 yashshingne15@gmail.com
+🔗 LinkdIn : https://www.linkedin.com/in/yash-shingne-82b106292
 
 ⭐ Acknowledgements
 Thanks to InternPe for the opportunity.
